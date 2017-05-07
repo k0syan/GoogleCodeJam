@@ -7,3 +7,5 @@
 
 - **[Qualification_A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/A)** - Flips Count - **Accepted**
 - **[Qualification_B](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/B)** - Tidy - **Accepted**
+
+### [Round 1A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201A) - `1/3`
