@@ -3,4 +3,4 @@
 
 <br>
 
-### Qualification Round - `2/3`
+### [Qualification Round](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification) - `2/3`
