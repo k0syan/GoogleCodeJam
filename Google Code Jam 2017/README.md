@@ -9,3 +9,5 @@
 - **[Qualification_B](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/B)** - Tidy - **Accepted**
 
 ### [Round 1A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201A) - `1/3`
+
+- [Round1A_A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201A/A) - Round1A/A - **Accepted**
