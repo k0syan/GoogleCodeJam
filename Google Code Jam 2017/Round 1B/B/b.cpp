@@ -189,7 +189,7 @@ int main() {
       }
       cout << "\n";
     } else {
-      cout << "IMPOSSIBLE\n";
+      cout << "IMPOSSIBLE" << "\n";
     }  
   }
   
