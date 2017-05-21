@@ -12,5 +12,5 @@
 
 ### Round 1B - `1/3`
 
-- **[A](https://github.com/k0syan/GoogleCodeJam/commit/c96b5c507eb89cab816e80db8ca7df5d83b01301)** - Round1B/A - **Accepted**
-- [B](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201B/B) - Round1B/B - Wrong answer
+- **[A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201B/A)** - Cruise Control - **Accepted**
+- [B](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Round%201B/B) - Stable Neigh-bors - Wrong answer
