@@ -1,8 +1,6 @@
 # Solutions to Google Code Jam 2017 Problems
 ## Problems solved: `4`
 
-<br>
-
 ### Qualification Round- `2/3`
 
 - **[Qualification_A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/A)** - Flips Count - **Accepted**
