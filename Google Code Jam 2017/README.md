@@ -3,7 +3,7 @@
 
 <br>
 
-### [Qualification Round](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification) - `2/3`
+### Qualification Round- `2/3`
 
 - **[Qualification_A](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/A)** - Flips Count - **Accepted**
 - **[Qualification_B](https://github.com/k0syan/GoogleCodeJam/tree/master/Google%20Code%20Jam%202017/Qualification/B)** - Tidy - **Accepted**
