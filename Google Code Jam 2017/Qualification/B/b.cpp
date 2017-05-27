@@ -6,7 +6,6 @@ typedef unsigned long long ull;
 
 string tidy(ull n) {
   string str = to_string(n);
-  
   if (str.size() == 1) {
     return str;
   }
@@ -39,6 +38,5 @@ int main() {
     cin >> number;
     cout << "Case #" << i << ": " << tidy(number) << "\n";
   }
-  
   return 0;
 }
