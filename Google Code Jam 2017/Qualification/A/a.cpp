@@ -21,7 +21,6 @@ int flips(string s, int k) {
       }
     }
   }
-  
   return flips;
 }
 
@@ -41,7 +40,6 @@ int main() {
       cout << "Case #" << i << ": " << answer << "\n";
     }
   }
-  
   return 0;
 }
 
