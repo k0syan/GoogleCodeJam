@@ -5,6 +5,7 @@
 #include <vector>
 #include <iterator>
 #include <algorithm>
+
 using namespace std;
 
 struct Cake {
@@ -57,7 +58,6 @@ int main() {
         area -= M_PI * answer[i + 1].r * answer[i + 1].r;
       }
     }
-    
     cout << "Case #" << t << ": ";
     cout << fixed << setprecision(9);
     cout << area << "\n";
