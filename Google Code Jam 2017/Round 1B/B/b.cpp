@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-using namespace std;
 
+using namespace std;
 typedef unsigned long long ull;
 
 int main() {
@@ -49,10 +49,8 @@ int main() {
       if (color == 0) {
         possible = false;
         break;
-      }
-      
+      }    
       if (color == r) {
-      
         if (u[i - 1] == 'R' || u[i - 1] == 'O' || u[i - 1] == 'V') {
           if (y == 0 && b == 0 && g == 0) {
             possible = false;
@@ -76,9 +74,7 @@ int main() {
           u[i] = 'R';
           --r;
         }
-        
       } else if (color == y) {
-        
         if (u[i - 1] == 'Y' || u[i - 1] == 'O' || u[i - 1] == 'G') {
           if (r == 0 && b == 0 && v == 0) {
             possible = false;
@@ -102,9 +98,7 @@ int main() {
           u[i] = 'Y';
           --y;
         }
-        
       } else if (color == b) {
-      
         if (u[i - 1] == 'B' || u[i - 1] == 'G' || u[i - 1] == 'V') {
           if (r == 0 && y == 0 && o == 0) {
             possible = false;
@@ -127,10 +121,8 @@ int main() {
         } else {
           u[i] = 'B';
           --b;
-        }
-        
+        } 
       } else if (color == o) {
-      
         if (u[i - 1] == 'O' || u[i - 1] == 'R' || u[i - 1] == 'Y' || u[i - 1] == 'G' || u[i - 1] == 'V') {
           if (b == 0) {
             possible = false;
@@ -143,7 +135,6 @@ int main() {
           u[i] = 'O';
           --o;
         }
-        
       } else if (color == g) {
       
         if (u[i - 1] == 'G' || u[i - 1] == 'Y' || u[i - 1] == 'B' || u[i - 1] == 'O' || u[i - 1] == 'V') {
@@ -160,7 +151,6 @@ int main() {
         }
         
       } else if (color == v) {
-      
         if (u[i - 1] == 'V' || u[i - 1] == 'B' || u[i - 1] == 'R' || u[i - 1] == 'O' || u[i - 1] == 'G') {
           if (y == 0) {
             possible = false;
@@ -172,8 +162,7 @@ int main() {
         } else {
           u[i] = 'V';
           --v;
-        }
-        
+        } 
       }
       
       if (i == n - 1 && u[0] == u[i]) {
